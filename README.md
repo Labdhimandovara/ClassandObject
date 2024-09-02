@@ -25,6 +25,7 @@ public:
     }
 };
 
+
 int main() {
     Student student1;
     student1.name = "John";
@@ -33,6 +34,7 @@ int main() {
 
     return 0;
 };
+```
 
 ## Algorithm:
 
